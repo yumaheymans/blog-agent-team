@@ -1,0 +1,3 @@
+[submodule "crewai-streaming2"]
+	path = crewai-streaming2
+	url = https://github.com/yumaheymans/crewai-streaming2
